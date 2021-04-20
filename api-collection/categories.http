@@ -1,0 +1,35 @@
+@baseUrl = http://localhost:3000
+
+#Categories
+
+# đặt tên @tenmuondat
+# @name getAllCategories
+GET {{baseUrl}}/api/categories
+
+###
+
+# @name addNewCategory
+POST {{baseUrl}}/api/products
+Content-Type: application/json
+
+{
+    "name": "Apple watch"
+}
+
+###
+
+# @name updateCategory
+PATCH {{baseUrl}}/api/categories/2
+Content-Type: application/json
+
+{
+    "name": "New Laptop"
+}
+
+###
+
+# @name removeCategory
+DELETE {{baseUrl}}/api/categories/4
+
+
+

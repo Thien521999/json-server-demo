@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "name": "Toys",
+      "createAt": 1618836064240,
+      "updateAt": 1618836064240
+    },
+    {
+      "id": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "name": "Industrial",
+      "createAt": 1618836064241,
+      "updateAt": 1618836064241
+    },
+    {
+      "id": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "name": "Computers",
+      "createAt": 1618836064241,
+      "updateAt": 1618836064241
+    },
+    {
+      "id": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "name": "Movies",
+      "createAt": 1618836064242,
+      "updateAt": 1618836064242
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "id": "90199471-5c81-45cd-8f79-80595b19de1a",
+      "name": "Incredible Fresh Mouse",
+      "color": "green",
+      "price": 705,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618836064243,
+      "updatedAt": 1618836064243,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "id": "1226598f-90d7-4a32-a6c8-257a850e6eac",
+      "name": "Ergonomic Frozen Salad",
+      "color": "white",
+      "price": 425,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1618836064244,
+      "updatedAt": 1618836064244,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "id": "aa9e0d7a-1c25-4789-9dc0-d2b58ea26601",
+      "name": "Handcrafted Frozen Pants",
+      "color": "indigo",
+      "price": 507,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1618836064244,
+      "updatedAt": 1618836064244,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "id": "43abd42a-c352-49dd-a8e1-6743cf32ff0e",
+      "name": "Practical Concrete Cheese",
+      "color": "violet",
+      "price": 198,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618836064245,
+      "updatedAt": 1618836064245,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0caabdb7-bebd-4deb-89bb-6310088e3239",
+      "id": "2c64955d-f5f0-4b23-8b66-39d8cf7ff6e7",
+      "name": "Practical Steel Car",
+      "color": "black",
+      "price": 867,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618836064245,
+      "updatedAt": 1618836064245,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "id": "db805740-5e07-4716-ae2c-61be1d62ab23",
+      "name": "Intelligent Concrete Bike",
+      "color": "purple",
+      "price": 256,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618836064246,
+      "updatedAt": 1618836064246,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "id": "c99cdb04-01bf-4f5e-8420-ab36d1c37ac4",
+      "name": "Awesome Granite Pants",
+      "color": "orchid",
+      "price": 506,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618836064246,
+      "updatedAt": 1618836064246,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "id": "ba97b10c-1f5c-444f-94a0-3ca1132ae2f4",
+      "name": "Handmade Fresh Fish",
+      "color": "olive",
+      "price": 81,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1618836064247,
+      "updatedAt": 1618836064247,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "id": "fb466da4-99a4-4ae2-a0fa-40786d161c4d",
+      "name": "Tasty Concrete Bike",
+      "color": "lavender",
+      "price": 928,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1618836064247,
+      "updatedAt": 1618836064247,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6decc493-f7ec-4d51-b6eb-4cf59afec762",
+      "id": "86801bac-ee01-4a2b-82e3-3bfba3f24c97",
+      "name": "Unbranded Frozen Ball",
+      "color": "tan",
+      "price": 763,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618836064248,
+      "updatedAt": 1618836064248,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "id": "e0c7e037-b607-4abb-8bdb-0c53b744df25",
+      "name": "Incredible Concrete Bacon",
+      "color": "salmon",
+      "price": 302,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618836064249,
+      "updatedAt": 1618836064249,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "id": "d21f2465-8798-4318-9627-bea9a00301b3",
+      "name": "Fantastic Soft Table",
+      "color": "sky blue",
+      "price": 805,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1618836064250,
+      "updatedAt": 1618836064250,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "id": "4f254aa9-7aec-42c8-9d21-68cf027e150c",
+      "name": "Intelligent Wooden Computer",
+      "color": "blue",
+      "price": 614,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1618836064250,
+      "updatedAt": 1618836064250,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "id": "41561614-0b82-4d58-aa92-80d16ea24874",
+      "name": "Handmade Cotton Bike",
+      "color": "black",
+      "price": 477,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618836064251,
+      "updatedAt": 1618836064251,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5334db3c-3ebf-4122-858a-b2d980f9fd00",
+      "id": "78da3978-9c61-472c-9e56-adcb5afb12a9",
+      "name": "Handcrafted Cotton Tuna",
+      "color": "indigo",
+      "price": 873,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618836064252,
+      "updatedAt": 1618836064252,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "id": "f678ddd4-ea29-4cfc-a573-7cc41624bfb0",
+      "name": "Tasty Rubber Gloves",
+      "color": "olive",
+      "price": 522,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618836064252,
+      "updatedAt": 1618836064252,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "id": "c000b746-10f6-48a9-9202-696ca1f30443",
+      "name": "Intelligent Frozen Hat",
+      "color": "orchid",
+      "price": 5,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618836064253,
+      "updatedAt": 1618836064253,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "id": "bb7102c6-5226-4287-babf-ba226001a422",
+      "name": "Handmade Plastic Hat",
+      "color": "lavender",
+      "price": 66,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618836064254,
+      "updatedAt": 1618836064254,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "id": "c2cbb65c-0047-44da-8c94-30235caa453a",
+      "name": "Handmade Steel Car",
+      "color": "turquoise",
+      "price": 816,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618836064255,
+      "updatedAt": 1618836064255,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "bd7467c4-bd19-4c46-bd4e-809ebc4a8bd6",
+      "id": "21f070d7-aacd-4c9a-821d-b68a94d70143",
+      "name": "Fantastic Rubber Computer",
+      "color": "indigo",
+      "price": 626,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618836064259,
+      "updatedAt": 1618836064259,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": { "name": "Po" }
+}

@@ -1,0 +1,64 @@
+@baseUrl = http://localhost:3000
+
+# Dat ten
+@resourceName=products 
+
+# Products
+
+# @name getAll
+GET {{baseUrl}}/api/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/api/{{resourceName}}?color=salmon&price_gte=170
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/api/{{resourceName}}?name_like=sleek 
+
+###
+
+# @name pagination
+GET {{baseUrl}}/api/{{resourceName}}?_page=1&_limit=3
+
+###
+
+# @name sort
+GET {{baseUrl}}/api/{{resourceName}}?_sort=price&_order=desc
+
+###
+
+# @name addNew
+POST {{baseUrl}}/api/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "0d00e930-1504-4640-b912-5a7f2b745fe8",
+    "name": "Sleek Plastic Mouse",
+    "color": "salmon",
+    "price": 168,
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/api/{{resourceName}}/Use4Zz4
+Content-Type: application/json
+
+{
+    "name": "Sleek Plastic Mouse die",
+    "color": "red",
+    "price": 170
+}
+
+###
+
+# @name remove
+DELETE {{baseUrl}}/api/{{resourceName}}/4
+
+
+
